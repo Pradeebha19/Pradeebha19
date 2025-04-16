@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Pradeebha19
+### 👋 Hi, I’m @Pradeebha
 
 - 🎓 I recently completed my Master’s in Data Science from the University of Greenwich, London
 - 👀 I’m interested in data analysis, business intelligence, and machine learning
