@@ -1,15 +1,59 @@
-### 👋 Hi, I’m @Pradeebha
+### 👩‍💻 About Me
+Hello! I'm Pradeebha Murugavel, a detail-oriented and analytical Data Science graduate with hands-on experience in machine learning, data analysis, and big data technologies.
 
-- 🎓 I recently completed my Master’s in Data Science from the University of Greenwich, London
-- 👀 I’m interested in data analysis, business intelligence, and machine learning
-- 🌱 I’m currently learning advanced data visualization and model deployment techniques
-- 💼 I have experience working with Python, SQL, and Power BI — building dashboards, analyzing datasets, and creating insights
-- 🤝 I’m looking to collaborate on data-driven projects, dashboards, and open-source data science work
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pradeebha-m-a58794272/) | Email: rampradeebha@gmail.com
-- ⚡ Fun fact: I love turning messy datasets into meaningful stories|interested coffee making Barista.
+I'm currently pursuing my MSc in Data Science at the University of Greenwich, London. My passion lies in turning data into actionable insights, building intelligent systems, and sharing knowledge through education and applied projects.
+
+I have worked as both an Academic Trainer and a Curriculum Executive, where I taught Python, data analysis, and IT skills, while also designing industry-relevant training materials. These roles helped sharpen my technical and communication skills, and deepened my commitment to learning and sharing.
 
 
-<!---
-Pradeebha19/Pradeebha19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Skills
+Programming: Python, R, SQL
+
+Machine Learning: Scikit-learn, TensorFlow, XGBoost, Random Forest, KMeans
+
+Data Analysis: Pandas, NumPy
+
+Visualization: Tableau, Matplotlib, Seaborn
+
+Big Data: Hadoop, Spark, Hive
+
+Cloud: Microsoft Azure
+
+### 🎓 Education
+MSc Data Science, University of Greenwich, UK (2024 – Present)
+
+Bachelor of Mathematics, Saradha Gangadharan College, India
+
+Honors Diploma in Computer Applications, CSC Computer Education
+
+### 📜 Certifications
+Advanced Diploma in Python Programming
+
+Diploma in French Language
+
+Course in Computer Applications (TCIL IT)
+
+### 🚀 Projects
+Spam Message Classification App – Built with Python, trained on real-world data, and deployed using Streamlit
+
+Product Matching in Data Science
+
+Employee Payroll System in VB
+
+Blood Bank Database System in Python
+
+E-Commerce Sales Analysis Power BI project
+
+### 🌍 Languages
+English (Professional)
+
+French (Intermediate)
+
+### 📬 Contact
+📧 Email: rampradeebha@gmail.com
+
+🌐 GitHub: github.com/Pradeebha19
+
+📞 Phone (UK): 07424 192242
+
+📍 Location: Croydon, London, United Kingdom
