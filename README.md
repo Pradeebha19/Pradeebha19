@@ -54,6 +54,4 @@ French (Intermediate)
 
 🌐 GitHub: github.com/Pradeebha19
 
-📞 Phone (UK): 07424 192242
-
 📍 Location: Croydon, London, United Kingdom
